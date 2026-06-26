@@ -1,28 +1,20 @@
 <div align="center">
 
-# Hey, I'm Kamron 👋
+# Hi there 👋, I am Kamron
 
-**Backend Developer in progress** · Tashkent, Uzbekistan 🇺🇿
+### Backend Developer in progress · Tashkent 🇺🇿
 
 </div>
 
 ---
 
-### About me
-
-- 🔭 Currently building backend projects with **Go**
-- 🌱 Learning **Go**, **PostgreSQL**, **REST API**
-- 🎯 Goal: Become a professional Backend Developer
-- ⚡ 17 y.o. and already writing production-level code
-
----
-
 ### 🛠 Tech Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Property | Data |
+|----------|------|
+| Language | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| Database | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
 
@@ -34,9 +26,7 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kamronnormingniyev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkama)
-
-</div>
