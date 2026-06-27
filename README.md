@@ -25,12 +25,10 @@
 ---
 
 ### 📦 Projects
-
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Blog API](https://github.com/KamronDev10/Blog) | REST API for blog platform | Go, PostgreSQL, JWT |
-
----
+| [Todo API](https://github.com/KamronDev10/ToDo-Project) | REST API for todo management | Go, PostgreSQL, JWT |
 
 ### 📊 GitHub Activity Graph
 
