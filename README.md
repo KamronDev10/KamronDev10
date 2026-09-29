@@ -29,6 +29,8 @@
 |---------|-------------|------|
 | [Blog API](https://github.com/KamronDev10/Blog) | REST API for blog platform | Go, PostgreSQL, JWT |
 | [Todo API](https://github.com/KamronDev10/ToDo-Project) | REST API for todo management | Go, PostgreSQL, JWT |
+| [ZiyoMalaka](https://ziyo-iec.com/) | O'qituvchilar uchun onlayn malaka oshirish platformasi (backend API) | Go, PostgreSQL, JWT |
+| [ZiyoHotel](https://hotel.ziyo-iec.com/) | Yotoqxona boshqaruv tizimi: mijozlar, xonalar, to'lovlar, hisobotlar (backend API) | Go, PostgreSQL, JWT |
 
 ### 📊 GitHub Activity Graph
 
